@@ -16,6 +16,10 @@ TagManager:
   - Wood (Static)
   - Dirt (Static)
   - Wood
+  - Fire
+  - explosive
+  - pickup
+  - interior
   layers:
   - Default
   - TransparentFX
@@ -33,7 +37,7 @@ TagManager:
   - Post Processing Scope
   - Invisible Wall
   - Projectile
-  - 
+  - interior
   - 
   - 
   - 

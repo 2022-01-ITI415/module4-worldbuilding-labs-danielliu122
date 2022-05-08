@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 744503636271357919}
   m_Layer: 0
   m_Name: Explosion prefab
-  m_TagString: Untagged
+  m_TagString: explosive
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108,7 +108,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 921a3ff88856fe04ebc86b196fd8cc59, type: 3}
 --- !u!4 &1258422041972019785 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: 921a3ff88856fe04ebc86b196fd8cc59, type: 3}
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 921a3ff88856fe04ebc86b196fd8cc59,
+    type: 3}
   m_PrefabInstance: {fileID: 1258422041972148425}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1258422042079295604
@@ -170,7 +171,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: bf495eacf58e31146ab012aa89ac68da, type: 3}
 --- !u!4 &1258422042079683316 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: bf495eacf58e31146ab012aa89ac68da, type: 3}
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bf495eacf58e31146ab012aa89ac68da,
+    type: 3}
   m_PrefabInstance: {fileID: 1258422042079295604}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1258422043277850102
@@ -232,6 +234,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 031d08f52af1daa4f929b85221519426, type: 3}
 --- !u!4 &1258422043278241660 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400010, guid: 031d08f52af1daa4f929b85221519426, type: 3}
+  m_CorrespondingSourceObject: {fileID: 400010, guid: 031d08f52af1daa4f929b85221519426,
+    type: 3}
   m_PrefabInstance: {fileID: 1258422043277850102}
   m_PrefabAsset: {fileID: 0}
