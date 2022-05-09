@@ -12,10 +12,8 @@ public class Pickup : MonoBehaviour
 
     private void onTriggerEnter(Collider other){
         if (other.gameObject.tag == "Player"){
-            float x= 917;
-            float y=1;
-            float z= 466;
-            transform.position = new Vector3(x,y,z);
+            print("hit");
+            Destroy(gameObject);
         }
     }
 }
