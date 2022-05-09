@@ -20,6 +20,7 @@ TagManager:
   - explosive
   - pickup
   - interior
+  - gui
   layers:
   - Default
   - TransparentFX
